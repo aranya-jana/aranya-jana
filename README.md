@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aranya-jana&label=Profile%20views&color=10b40e&style=flat" alt="aranya-jana" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Django, and MERN**
+- 🌱 I’m currently learning **Machine Learning, Django,  MERN**
 - 📫 How to reach me: **aranyajana23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
