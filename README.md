@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning, Django and MERN**
 - 📫 How to reach me: **aranyajana23@gmail.com**
 - 🔗 Check my Portfolio : <a href="https://aranyajana.netlify.app/">**Aranya's Portfolio**</a>
+- 👨‍🏫 Check my Resume : <a href="https://drive.google.com/file/d/1nTC8HXMgauhyqT0zYTW_30L2WqluPkec/view?usp=sharing">**Aranya's Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
