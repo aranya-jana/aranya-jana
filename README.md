@@ -69,8 +69,8 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="40" width="40"/></a>&nbsp;
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="40" width="40"/></a>&nbsp;
   <a href="cmd://" target="_blank" rel="noreferrer">
-  <img src="https://i.pngimg.me/thumb/f/720/comhiclipartfcvvi.jpg" alt="Command Prompt" style="height: 40px; width: 40px;">
-</a>
+<!--   <img src="https://i.pngimg.me/thumb/f/720/comhiclipartfcvvi.jpg" alt="Command Prompt" style="height: 40px; width: 40px;">
+</a> -->
 </a>&nbsp;
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/208-2081207_anaconda-python-icon-png-download-anaconda-python-icon.png" alt="anaconda" height="40" width="40"/></a>&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime" height="40" width="40"/></a>
