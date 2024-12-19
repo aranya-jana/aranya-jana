@@ -78,6 +78,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aranya-jana&show_icons=true&theme=dark&title_color=ff3729&text_color=ffffff&locale=en&layout=compact" alt="aranya-jana" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aranya-jana&show_icons=true&theme=dark&title_color=21cb15&text_color=47ffa0&locale=en" alt="aranya-jana" /></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aranya-jana&show_icons=true&theme=dark&title_color=21cb15&text_color=47ffa0&locale=en" alt="aranya-jana" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aranya-jana&theme=dark" alt="aranya-jana" /></p>
