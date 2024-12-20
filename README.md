@@ -73,6 +73,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)  
+![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=flat&logo=amd&logoColor=white)  
 
 ### Code Editors & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visual-studio-code&logoColor=white)
