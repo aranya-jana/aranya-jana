@@ -17,8 +17,7 @@
 
 ---
 
-## 🌐 Social Links
-
+### 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aranyajana)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23096BFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/aranyajana01)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/aranyajana01)
@@ -29,8 +28,7 @@
 
 ---
 
-## 💻 Tech Stack
-
+### 💻 Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -73,8 +71,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)  
-![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=flat&logo=amd&logoColor=white)  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)  ![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=flat&logo=amd&logoColor=white)  
 
 ### Code Editors & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visual-studio-code&logoColor=white)
