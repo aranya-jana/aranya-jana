@@ -24,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/aranyajana_)
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/A_J_0109)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aranyajana01)
-[![Devfolio](https://img.shields.io/badge/Devfolio-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://devfolio.co/@aranyajana)
+[![Devfolio](https://img.shields.io/badge/Devfolio-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/aranya_jana)
 
 ---
 
