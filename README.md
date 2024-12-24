@@ -82,7 +82,7 @@
 
 ---
 
-## 🔢 GitHub Stats
+<!--## 🔢 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aranya-jana&show_icons=true&theme=dark&title_color=ff3729&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
