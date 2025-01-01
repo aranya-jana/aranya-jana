@@ -5,11 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aranya-jana&label=Profile%20views&color=10b40e&style=flat" alt="Profile Views" />
-</p>
-
 - 🌱 Currently exploring **Machine Learning, Django, and the MERN stack**
 - 📧 Reach me at: **aranyajana23@gmail.com**
 - 🔗 Portfolio: [Aranya's Portfolio](https://aranyajana.netlify.app/)
@@ -90,5 +85,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aranya-jana&show_icons=true&theme=dark&title_color=21cb15&text_color=47ffa0&locale=en" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aranya-jana&label=Profile%20views&color=10b40e&style=flat" alt="Profile Views" />
 </p>
 
