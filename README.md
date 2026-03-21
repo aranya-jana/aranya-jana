@@ -7,7 +7,7 @@
 --- 
 - 🌱 Currently exploring **Machine Learning, Django, and the MERN stack**
 - 📧 Reach me at: **aranyajana32@gmail.com**
-- 🔗 Portfolio: [Aranya's Portfolio](https://aranyajana.netlify.app/)
+- 🔗 Portfolio: [Aranya's Portfolio]([https://aranyajana.netlify.app/](https://aranyajana.vercel.app/))
 - 📄 Resume: [Aranya's Resume](https://drive.google.com/file/d/109LsKrhpwzCEND4625lSL8O7_AIKIwn3/view?usp=sharing)
 
 ---
