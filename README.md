@@ -35,6 +35,21 @@ class Research:
         self.techniques  = ["NLP", "Sentiment Analysis", "Feature Extraction"]
         self.goal        = "Accurate & efficient cyberbullying detection at scale"
 ```
+
+## 🏆 Achievement
+
+```python
+class Achievement:
+    def __init__(self):
+        self.title        = "Deloitte Australia Data Analytics Job Simulation"
+        self.issuer       = "Forage"
+        self.issued       = "Sep 2025"
+        self.skills       = ["Data Modelling", "Data Analysis", "Data Visualization", "Tableau", "Spreadsheets"]
+        self.credential   = "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Hnbza37ZBDpwuopNC_1757427819884_completion_certificate.pdf"
+```
+
+[![View Credential](https://img.shields.io/badge/View%20Credential-Forage-86BC25?style=flat-square&logo=googledrive&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Hnbza37ZBDpwuopNC_1757427819884_completion_certificate.pdf)
+
 ## Tech Stack
 
 **Languages**
