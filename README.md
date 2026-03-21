@@ -4,7 +4,7 @@
 
 **Computer Engineering student** · Kolkata, India  
 Passionate about AI and development.  
-Currently exploring **AI**,** ML**,** Data Science**,** Django**.
+Currently exploring **AI**, **ML**, **Data Science**, **Django**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aranyajana.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://aranyajana.vercel.app/)
 
