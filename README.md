@@ -1,10 +1,21 @@
 <img width="1584" height="396" alt="LN Banner (1)" src="https://github.com/user-attachments/assets/a3f8d65e-abbb-4ebe-9593-ffc67e12a4be" />
 
-# Aranya Jana
-
-**Computer Engineering student** · Kolkata, India  
-Passionate about AI and development.  
-Currently exploring **AI**, **ML**, **Data Science**, **Django**.
+## 👨‍💻 About Me
+ 
+```python
+class AranyaJana:
+    def __init__(self):
+        self.name        = "Aranya Jana"
+        self.degree      = "M.Tech CSE (AIML) — CGPA: 8.9"
+        self.location    = "Kolkata, India"
+        self.focus       = ["AI","Data Science","Machine Learning", "NLP"]
+        self.currently   = "Researching cyberbullying detection using BART + ML models"
+        self.learning    = ["Advanced Deep Learning", "Generative AI"]
+        self.contact     = "aranyajana32@gmail.com"
+ 
+    def mission(self):
+        return "Build intelligent systems that solve real-world problems."
+```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aranyajana.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://aranyajana.vercel.app/)
 
@@ -12,8 +23,18 @@ Currently exploring **AI**, **ML**, **Data Science**, **Django**.
 
 [![Email](https://img.shields.io/badge/Email-aranyajana32@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aranyajana32@gmail.com)
 
----
-
+## 🔬 Research
+ 
+```python
+class Research:
+    def __init__(self):
+        self.title       = "Cyberbullying Detection Using Machine Learning"
+        self.type        = "Final Year Research Paper"
+        self.duration    = "Nov 2024 – Jun 2025"
+        self.models      = ["BART", "SVM", "Random Forest", "Neural Networks"]
+        self.techniques  = ["NLP", "Sentiment Analysis", "Feature Extraction"]
+        self.goal        = "Accurate & efficient cyberbullying detection at scale"
+```
 ## Tech Stack
 
 **Languages**
